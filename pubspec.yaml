@@ -1,0 +1,25 @@
+name: projeto_flutter
+description: Gerenciador de cadastro de filmes
+publish_to: "none"
+version: 1.0.0
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Dependências solicitadas e necessárias
+  sqflite: ^2.3.0          # Banco de dados local
+  path: ^1.8.3             # Auxiliar para caminhos de arquivo
+  provider: ^6.0.5         # Gerenciamento de estado (MVVM)
+  flutter_rating_bar: ^4.0.1 # Widget de estrelas solicitado
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
