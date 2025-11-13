@@ -1,6 +1,6 @@
 # 🎬 Gerenciador de Filmes (Flutter + MVVM + SQLite)
 
-Aplicativo móvel desenvolvido em **Flutter** para o gerenciamento de cadastro de filmes. O projeto utiliza armazenamento local via **SQLite** e segue a arquitetura **MVVM** (Model-View-ViewModel) para separação de responsabilidades.
+Aplicativo móvel desenvolvido em **Flutter** para a cadeira de programação para dispositivos móveis, visando o gerenciamento de cadastro de filmes. O projeto utiliza armazenamento local via **SQLite** e segue a arquitetura **MVVM** (Model-View-ViewModel) para separação de responsabilidades.
 
 ## 📋 Funcionalidades
 
@@ -11,7 +11,6 @@ Aplicativo móvel desenvolvido em **Flutter** para o gerenciamento de cadastro d
 * **Detalhes:** Tela exclusiva para exibição detalhada do filme (Pôster, Sinopse, Ano, etc.).
 * **Persistência de Dados:** Banco de dados local (SQLite) que não requer instalação de servidor externo.
 * **Menu de Opções:** BottomSheet para escolher entre Editar ou Visualizar detalhes.
-* **Equipe:** Botão de informações exibindo os integrantes do grupo.
 
 ## 🚀 Tecnologias Utilizadas
 
